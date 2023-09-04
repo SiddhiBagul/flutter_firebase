@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "366144416986",
+    "project_id": "quarktask2",
+    "storage_bucket": "quarktask2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366144416986:android:1016196272d19cf00109e3",
+        "android_client_info": {
+          "package_name": "com.example.quarkTast2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366144416986-itid5q0md70q2nbjpcltaa4qvjhrjer2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2P5aBYN-i422foFNCb3biaFh51yFAsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366144416986-itid5q0md70q2nbjpcltaa4qvjhrjer2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366144416986-c8r8l9bbn331ivobhvmaubkbcp6rf66r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quarkTast2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
